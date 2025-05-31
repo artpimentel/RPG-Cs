@@ -29,3 +29,5 @@ c:\Users\Arthur Pimentel\OneDrive\Documentos\GitHub\RPG-Cs\obj\Debug\net8.0\refi
 c:\Users\Arthur Pimentel\OneDrive\Documentos\GitHub\RPG-Cs\obj\Debug\net8.0\RPG-Cs.pdb
 C:\Users\Arthur Pimentel\OneDrive\Documentos\GitHub\RPG-Cs\obj\Debug\net8.0\RPG-Cs.genruntimeconfig.cache
 C:\Users\Arthur Pimentel\OneDrive\Documentos\GitHub\RPG-Cs\obj\Debug\net8.0\ref\RPG-Cs.dll
+c:\Users\Arthur Pimentel\OneDrive\Documentos\GitHub\RPG-Cs\obj\Debug\net8.0\RPG-Cs.sourcelink.json
+c:\Users\Arthur Pimentel\OneDrive\Documentos\GitHub\RPG-Cs\bin\Debug\net8.0\Content\player-mage.xnb
