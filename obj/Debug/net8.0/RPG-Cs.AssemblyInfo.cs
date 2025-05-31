@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RPG-Cs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+699f33aacd7380b84daeeb25df59ce11936b885b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b38c0ff9dc47d9a27ec055aa2675631d38fa0618")]
 [assembly: System.Reflection.AssemblyProductAttribute("RPG-Cs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RPG-Cs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
